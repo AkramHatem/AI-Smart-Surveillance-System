@@ -5,6 +5,7 @@ __pycache__/
 *.py[cod]
 *.pyo
 *.pyd
+test_n8n.py
 
 # Virtual Environment
 venv/
